@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Create Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+First of all install dependencies with
+
+### `npm install`
 
 ## Available Scripts
 
@@ -28,6 +32,12 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run storybook`
+
+Run the application in storybook mode. The application will be hosted on port 6006. The browser should open link http://localhost:6006/
+
+See the section about [Storybook documentation](https://storybook.js.org/docs/react/get-started/install)
 
 ### `npm run eject`
 
